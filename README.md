@@ -45,6 +45,7 @@ The Pytorch pretrained model was taken from the [original repository](https://gi
  
 # [Inference video Example](https://youtu.be/k5HZ_USROpU) 
  ![GLPDepth monocular depth estimation ONNX](https://github.com/ibaiGorordo/ONNX-GLPDepth/blob/main/doc/img/glpdepth_test.gif)
+
 *Original video: https://www.youtube.com/watch?v=jc3uSpXYZqY*
 
 # References:
