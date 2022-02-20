@@ -12,7 +12,7 @@ class GLPDepth():
 		self.first_zero_row = 0
 
 		# Initialize model
-		self.model = self.initialize_model(model_path)
+		self.initialize_model(model_path)
 
 	def __call__(self, image):
 
